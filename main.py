@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 
 logger = logging.getLogger(__name__)
-TOKEN = 'YOUR TOKEN'
+TOKEN = '483781851:AAGIyGHC5yLRbUc8H7LTPMAqLQduWAPSEVM'
 
 # Define stages of conversation
 PLAY, MENU = range(2)
