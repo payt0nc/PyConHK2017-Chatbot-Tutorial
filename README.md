@@ -6,8 +6,6 @@ It's a simple telegram chatbot tutorial sharing on PyCon HK 2017.
 
 ## Installation
 
-This code is using Python3.5.
-
 ```
 $ mkdir venv
 $ virtualenv venv
@@ -15,7 +13,7 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-This tutoial is using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) this library.
+This tutoial is using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) this library with Python3.5.
 
 
 ## Project Objective
