@@ -15,6 +15,7 @@ $ pip install -r requirements.txt
 
 This tutoial is using [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) this library with Python3.5.
 
+And, most importantly, please remember to create a telegram account first.
 
 ## Project Objective
 Make a simple paper-rock-scissor game with chatbot with a single user
